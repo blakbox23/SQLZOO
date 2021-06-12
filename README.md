@@ -1,2 +1,3 @@
 # SQLZOO
-Solutions to SQLZOO quiz
+These are solutions to SQLZOO challenges. 
+Find the quiz at [sqlzoo.net](https://sqlzoo.net/)
